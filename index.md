@@ -1,4 +1,5 @@
 *July 2-5, 2023  Swissôtel Chicago*
+![cec](https://github.com/xw00616/xw00616.github.io/blob/main/CEC1.PNG)
 
 ****
 
@@ -45,7 +46,7 @@ The aim of this special session is to bring together researchers from different 
 **Submission Guideline**
 
 
-Please follow the submission guideline from [the CEC 2023 Submission Website] (https://2023.ieee-cec.org/paper-submission/"the CEC 2023 Submission Website"). Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on Secure, Privacy-Preserving, and Fairness-Aware Optimization. All papers accepted and presented at CEC 2023 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
+Please follow the submission guideline from the CEC 2023 Submission Website <https://2023.ieee-cec.org/paper-submission/>. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on Secure, Privacy-Preserving, and Fairness-Aware Optimization. All papers accepted and presented at CEC 2023 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
 
 ****
 
@@ -70,7 +71,7 @@ Print-Ready Manuscripts: April 15th, 2023
 
 Dr Qiqi Liu, NICE, Faculty of Technology, Bielefeld University, Germany. Email: <qiqi6770304@gmail.com>
 
-Dr Guo Yu, Institute of Intelligent Manufacturing, Nanjing Tech University, Nanjing, 211816, China and School of Information Science and Engineering East China University of Science and Technology, Shanghai 200237, China, China. Email: <gysearch@163.com>
+Dr Guo Yu, Institute of Intelligent Manufacturing, Nanjing Tech University, Nanjing, 211816, China and School of Information Science and Engineering East China University of Science and Technology, Shanghai 200237, China. Email: <gysearch@163.com>
 
 Dr Xilu Wang, NICE, Faculty of Technology, Bielefeld University, Germany. Email: <xilu.wang@uni-bielefeld.de>
 
