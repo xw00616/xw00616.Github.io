@@ -1,5 +1,6 @@
 *July 2-5, 2023  Swissôtel Chicago*
-![cec](https://github.com/xw00616/xw00616.github.io/blob/main/CEC1.PNG)
+
+![cec](https://github.com/xw00616/xw00616.github.io/blob/main/cec.png)
 
 ****
 
